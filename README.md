@@ -1,3 +1,6 @@
+> ## DEPRECATED
+> Please use [@origami/bird](https://www.npmjs.com/package/@origami/bird)
+
 # The Origami CMS Bird
 ```
           `-
